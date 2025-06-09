@@ -37,7 +37,7 @@ This project presents an in-depth exploratory data analysis (EDA) of the Titanic
 
 ---
 
-## 🛠 Code (Run without setup using Google Colab)
+##  Code (Run without setup using Google Colab)
 
 🔗 Google Colab Link:
 https://colab.research.google.com/drive/19lbRi-V-nWKm2aB3ZkGvCYHgNQGYoodU?usp=sharing
